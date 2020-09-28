@@ -1,0 +1,16 @@
+[for russian documentation see 'doc' directory]
+
+trdetz is the utility to deal with files in TRD disk image format, which is used by many ZX-Spectrum emulators.
+it's written by me [boo_boo(^at^)inbox.ru]
+
+features include:
+
+* read/write group of sectors from/to image
+* read/write binary file (including 'hobeta' files) to/from image
+* delete/undelete file from image
+* change file attributes (name, start adress, etc...)
+* get TRD catalogue or single file info
+* get disk summary info
+* pack disk space (i.e. TR-DOS 'move' command)
+
+for detailed program usage info, invoke trdetz without arguments

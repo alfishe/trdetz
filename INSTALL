@@ -1,0 +1,6 @@
+[for instructions in russian see 'doc' directory]
+
+for GCC/DJGPP/MinGW with GNU make just do 'make all' and programm will be built.
+for other compilers, modify or create makefile yourself.
+trdetz may be compiled with any C99-compatible compiler and libraries on virtually any OS,
+and was tested on Linux/x86 and Win32/x86
